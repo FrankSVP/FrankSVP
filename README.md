@@ -11,7 +11,9 @@ Soy egresado de Ingeniería de Sistemas , IA Dev, Full Stack Dev , Teacher , Con
 :heavy_check_mark: Análisis e Implementación de Bases de Datos SQL/NOSQL
 :heavy_check_mark: Inteligencia Artificial
 
+### Que la fuerza te acompañe en este camino de ser un Dev
 
+![Image of Yaktocat](https://octodex.github.com/images/octobiwan.jpg)
 
 <!--
 **FrankSVP/FrankSVP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
