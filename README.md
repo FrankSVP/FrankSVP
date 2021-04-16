@@ -1,4 +1,10 @@
-### Hi there 👋
+# Structured documents
+
+Sometimes it's useful to have different levels of headings to structure your documents. Start lines with a `#` to create headings. Multiple `##` in a row denote smaller heading sizes.
+
+### This is a third-tier heading
+
+You can use one `#` all the way up to `######` six for different heading sizes.
 
 <!--
 **FrankSVP/FrankSVP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
