@@ -2,9 +2,16 @@
 
 Soy egresado de Ingeniería de Sistemas , IA Dev, Full Stack Dev , Teacher , Content Generator y CEO & Founder de Sin Rueda Tecnológica :sunglasses:
 
-### This is a third-tier heading
+### ¿Qué puedo encontrar aquí?
+:point_right: No solo puedes encontrar material aquí, sino en Facebook, Youtube e Instagram como "Sin Rueda Tecnológica"
 
-You can use one `#` all the way up to `######` six for different heading sizes.
+:heavy_check_mark: Fundamentos de Desarrollo de Software
+:heavy_check_mark: Desarrollo Frontend
+:heavy_check_mark: Desarrollo Backend
+:heavy_check_mark: Análisis e Implementación de Bases de Datos SQL/NOSQL
+:heavy_check_mark: Inteligencia Artificial
+
+
 
 <!--
 **FrankSVP/FrankSVP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
