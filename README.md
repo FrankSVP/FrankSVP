@@ -5,6 +5,10 @@ Soy egresado de Ingeniería de Sistemas , IA Dev, Full Stack Dev , Teacher , Con
 ### ¿Qué puedo encontrar aquí?
 :point_right: No solo puedes encontrar material aquí, sino en Facebook, Youtube e Instagram como "Sin Rueda Tecnológica"
 
+* https://www.facebook.com/SinRuedaTecnologica
+* https://www.instagram.com/sinruedatecnologica/
+* https://www.youtube.com/channel/UCnsNfKfLnl5oxP_VWiGFyiw
+
 :heavy_check_mark: Fundamentos de Desarrollo de Software
 :heavy_check_mark: Desarrollo Frontend
 :heavy_check_mark: Desarrollo Backend
