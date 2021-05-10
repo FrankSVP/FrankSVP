@@ -9,6 +9,9 @@ Soy egresado de Ingeniería de Sistemas , IA Dev, Full Stack Dev , Teacher , Con
 * https://www.instagram.com/sinruedatecnologica/
 * https://www.youtube.com/channel/UCnsNfKfLnl5oxP_VWiGFyiw
 
+Fan Page Personal: 
+* https://www.facebook.com/FrankValenciaPinto
+
 :heavy_check_mark: Fundamentos de Desarrollo de Software
 :heavy_check_mark: Desarrollo Frontend
 :heavy_check_mark: Desarrollo Backend
