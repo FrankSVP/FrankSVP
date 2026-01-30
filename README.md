@@ -18,7 +18,7 @@ plasmando todo eso en mi pequeña comunidad "Sin Rueda Tecnológica" ✨.
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/sinruedatecnologica/)](https://instagram.com/sinruedatecnologica)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/SinRuedaTecnologica)](https://facebook.com/SinRuedaTecnologica)
 
-[![Community](https://discordapp.com/api/guilds/729513541450727505/widget.png?style=banner2)](https://bmc.xyz/QEhqQxSP)
+[![Community](https://discordapp.com/api/guilds/729513541450727505/widget.png?style=banner2)]([https://bmc.xyz/QEhqQxSP](https://discord.gg/QEhqQxSP))
 
 
 
