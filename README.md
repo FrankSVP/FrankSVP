@@ -10,13 +10,13 @@ Soy solamente un Ingeniero de Sistemas🎓 en Perú. Apasionado en la tecnologí
 plasmando todo eso en mi pequeña comunidad "Sin Rueda Tecnológica" ✨.
 
 ## Aquí te dejo las redes sociales
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/@TU_CANAL)](https://www.youtube.com/@TU_CANAL)
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/manumanoj0010/) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manumanoj0010@gmail.com)](mailto:manumanoj0010@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://manumanoj.me)](https://manumanoj.me) 
-[![TikTok Badge](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@TU_USUARIO)](https://www.tiktok.com/@TU_USUARIO)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/m.a.n.u.m.a.n.o.j/)](https://instagram.com/m.a.n.u.m.a.n.o.j)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/manumanoj0010)](https://facebook.com/manumanoj0010)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/@sinruedatecnologica)](https://www.youtube.com/@sinruedatecnologica)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/frankvalenciapinto)](https://www.linkedin.com/in/frankvalenciapinto/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:glavie79@gmail.com)](mailto:glavie79@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://sinruedatecnologica.com)](https://sinruedatecnologica.com/) 
+[![TikTok Badge](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@sinruedatecnologica)](https://www.tiktok.com/@sinruedatecnologica)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/sinruedatecnologica/)](https://instagram.com/sinruedatecnologica)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/SinRuedaTecnologica)](https://facebook.com/SinRuedaTecnologica)
 
 [![Community](https://discordapp.com/api/guilds/729513541450727505/widget.png?style=banner2)](https://bmc.xyz/QEhqQxSP)
 
